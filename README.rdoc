@@ -2,8 +2,9 @@
 
 Coder Manual Project Application
 Subscription-based web application
-Things you may want to cover:
 http://codermanual.com
+
+Things you might want to cover:
 
 * Ruby version
 
